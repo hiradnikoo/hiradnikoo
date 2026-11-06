@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Senior Full-Stack &amp; Systems Engineer</b> — real-time media, streaming &amp; graphics<br/>
-  Founder of <a href="https://nixosoft.com">Nixosoft</a> · shipping production software for 13+ years
+  Founder of <a href="https://nixosoft.com">Nixosoft</a> · shipping production software for 19+ years
 </p>
 
 <p align="center">
