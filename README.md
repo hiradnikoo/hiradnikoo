@@ -79,12 +79,13 @@ I build **production systems end to end** — from GPU-accelerated media pipelin
 ### 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hiradnikoo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Hirad's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiradnikoo&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages"/>
+  <a href="https://github.com/hiradnikoo?tab=followers"><img src="https://img.shields.io/github/followers/hiradnikoo?style=for-the-badge&logo=github&logoColor=white&labelColor=111&color=2ea44f&label=Followers" alt="Followers"/></a>
+  <img src="https://img.shields.io/badge/On%20GitHub%20since-2013-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=111" alt="On GitHub since 2013"/>
+  <img src="https://img.shields.io/badge/Open%20to-senior%20%2F%20staff%20roles-2ea44f?style=for-the-badge&labelColor=111" alt="Open to senior / staff roles"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiradnikoo&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=hiradnikoo&hide_border=true&theme=tokyonight" alt="GitHub streak stats"/>
 </p>
 
 ---
