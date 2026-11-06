@@ -14,7 +14,12 @@
   <a href="https://github.com/hiradnikoo"><img src="https://img.shields.io/badge/Open%20to-opportunities-2ea44f?style=for-the-badge" alt="Open to opportunities"/></a>
   <img src="https://img.shields.io/badge/Based%20in-Ontario,%20Canada-0A66C2?style=for-the-badge" alt="Ontario, Canada"/>
   <a href="https://hiradnikoo.com"><img src="https://img.shields.io/badge/Portfolio-hiradnikoo.com-111?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/hiradnikoo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/HiradNikoo"><img src="https://img.shields.io/badge/@HiradNikoo-000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hiradnikoo&style=flat-square&color=2ea44f&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
@@ -29,7 +34,8 @@ I build **production systems end to end** — from GPU-accelerated media pipelin
 - 🌐 **Full-stack web** — React / TypeScript / Node, SSE-driven live dashboards, auth & SSO, clean APIs
 - ⚙️ **DevOps** — Docker, nginx, TLS, CI/CD, GPU hosts, monitoring, zero-drama deploys
 
-🟢 **Currently open to senior / staff engineering roles** in media, streaming, graphics, or systems.
+🟢 **Currently open to senior / staff engineering roles** in media, streaming, graphics, or systems.<br/>
+⚡ **8,500+ contributions in the last year** — I ship, daily.
 
 ---
 
@@ -87,5 +93,7 @@ I build **production systems end to end** — from GPU-accelerated media pipelin
   <b>Let's build something.</b><br/>
   <a href="https://hiradnikoo.com">hiradnikoo.com</a> ·
   <a href="https://nixosoft.com">nixosoft.com</a> ·
-  <a href="https://x.com/HiradNikoo">@HiradNikoo</a>
+  <a href="https://www.linkedin.com/in/hiradnikoo">LinkedIn</a> ·
+  <a href="https://x.com/HiradNikoo">@HiradNikoo</a> ·
+  <a href="https://www.youtube.com/@thehiradnikooshow">YouTube</a>
 </p>
