@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Senior Full-Stack &amp; Systems Engineer</b> — real-time media, streaming &amp; graphics<br/>
-  Founder of <a href="https://nixosoft.com">Nixosoft</a> · shipping production software for 19+ years
+  Founder of <a href="https://nixosoft.com">Nixosoft</a> · shipping production software for 13+ years
 </p>
 
 <p align="center">
@@ -36,6 +36,26 @@ I build **production systems end to end** — from GPU-accelerated media pipelin
 
 🟢 **Currently open to senior / staff engineering roles** in media, streaming, graphics, or systems.<br/>
 ⚡ **8,500+ contributions in the last year** — I ship, daily.
+
+---
+
+### 🤖 AI &amp; Machine Learning
+
+I design and ship **AI-powered products**, not just prototypes — LLM agents, retrieval pipelines, speech systems, and generative interfaces running in production, with the infrastructure to serve them reliably.
+
+- 🧠 **LLM apps & agents** — RAG pipelines, tool-using agents, and conversational assistants on modern LLMs (LangChain / LangServe, hosted & local models), deployed serverless on AWS Lambda
+- 🗣️ **Speech & audio AI** — text-to-speech services and **LLM-powered subtitle & transcription** generation for live and offline media
+- ✨ **Generative & applied AI** — generative UIs, AI-driven job matching, and AI features embedded directly into shipping products
+- ⚙️ **Production ML delivery** — self-hosted inference on GPU hosts (Ollama / local model serving), clean APIs, and the DevOps to keep it up
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-111?style=flat-square&logo=openai&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/RAG%20%2F%20Agents-654FF0?style=flat-square" alt="RAG / Agents"/>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
+</p>
 
 ---
 
